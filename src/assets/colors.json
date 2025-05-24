@@ -1,0 +1,4462 @@
+{
+    "colors": [
+        {
+            "index": 1,
+            "name": "Hermosa Pink",
+            "slug": "hermosa-pink",
+            "cmyk_array": [
+                0,
+                30,
+                6,
+                0
+            ],
+            "cmyk": "C:0 / M:30 / Y:6 / K:0",
+            "rgb_array": [
+                249,
+                193,
+                206
+            ],
+            "rgb": "R:249 / G:193 / B:206",
+            "hex": "#f9c1ce",
+            "combinations": [
+                176,
+                227,
+                273
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 2,
+            "name": "Corinthian Pink",
+            "slug": "corinthian-pink",
+            "cmyk_array": [
+                0,
+                35,
+                15,
+                0
+            ],
+            "cmyk": "C:0 / M:35 / Y:15 / K:0",
+            "rgb_array": [
+                248,
+                182,
+                186
+            ],
+            "rgb": "R:248 / G:182 / B:186",
+            "hex": "#f8b6ba",
+            "combinations": [
+                27,
+                43,
+                87,
+                97,
+                128,
+                169,
+                174,
+                206,
+                246,
+                254,
+                264,
+                342
+            ],
+            "use_count": 12
+        },
+        {
+            "index": 3,
+            "name": "Cameo Pink",
+            "slug": "cameo-pink",
+            "cmyk_array": [
+                10,
+                32,
+                19,
+                0
+            ],
+            "cmyk": "C:10 / M:32 / Y:19 / K:0",
+            "rgb_array": [
+                224,
+                179,
+                182
+            ],
+            "rgb": "R:224 / G:179 / B:182",
+            "hex": "#e0b3b6",
+            "combinations": [
+                18,
+                125,
+                308
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 4,
+            "name": "Fawn",
+            "slug": "fawn",
+            "cmyk_array": [
+                18,
+                31,
+                30,
+                0
+            ],
+            "cmyk": "C:18 / M:31 / Y:30 / K:0",
+            "rgb_array": [
+                209,
+                176,
+                167
+            ],
+            "rgb": "R:209 / G:176 / B:167",
+            "hex": "#d1b0a7",
+            "combinations": [
+                18,
+                125,
+                308
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 5,
+            "name": "Light Brown Drab",
+            "slug": "light-brown-drab",
+            "cmyk_array": [
+                8,
+                30,
+                20,
+                25
+            ],
+            "cmyk": "C:8 / M:30 / Y:20 / K:25",
+            "rgb_array": [
+                181,
+                147,
+                146
+            ],
+            "rgb": "R:181 / G:147 / B:146",
+            "hex": "#b59392",
+            "combinations": [
+                35,
+                68,
+                185,
+                191,
+                223,
+                239,
+                244,
+                268,
+                285,
+                321
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 6,
+            "name": "Coral Red",
+            "slug": "coral-red",
+            "cmyk_array": [
+                0,
+                55,
+                40,
+                0
+            ],
+            "cmyk": "C:0 / M:55 / Y:40 / K:0",
+            "rgb_array": [
+                245,
+                142,
+                132
+            ],
+            "rgb": "R:245 / G:142 / B:132",
+            "hex": "#f58e84",
+            "combinations": [
+                92,
+                123,
+                320,
+                332
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 7,
+            "name": "Fresh Color",
+            "slug": "fresh-color",
+            "cmyk_array": [
+                0,
+                53,
+                45,
+                0
+            ],
+            "cmyk": "C:0 / M:53 / Y:45 / K:0",
+            "rgb_array": [
+                246,
+                145,
+                126
+            ],
+            "rgb": "R:246 / G:145 / B:126",
+            "hex": "#f6917e",
+            "combinations": [
+                240
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 8,
+            "name": "Grenadine Pink",
+            "slug": "grenadine-pink",
+            "cmyk_array": [
+                0,
+                62,
+                58,
+                0
+            ],
+            "cmyk": "C:0 / M:62 / Y:58 / K:0",
+            "rgb_array": [
+                244,
+                128,
+                103
+            ],
+            "rgb": "R:244 / G:128 / B:103",
+            "hex": "#f48067",
+            "combinations": [
+                6,
+                21,
+                112,
+                166,
+                193,
+                201,
+                230,
+                300,
+                315,
+                341
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 9,
+            "name": "Eosine Pink",
+            "slug": "eosine-pink",
+            "cmyk_array": [
+                0,
+                63,
+                23,
+                0
+            ],
+            "cmyk": "C:0 / M:63 / Y:23 / K:0",
+            "rgb_array": [
+                243,
+                127,
+                148
+            ],
+            "rgb": "R:243 / G:127 / B:148",
+            "hex": "#f37f94",
+            "combinations": [
+                34,
+                59,
+                90,
+                108,
+                134,
+                153,
+                197,
+                242,
+                248,
+                276,
+                287,
+                314,
+                327,
+                336
+            ],
+            "use_count": 14
+        },
+        {
+            "index": 10,
+            "name": "Spinel Red",
+            "slug": "spinel-red",
+            "cmyk_array": [
+                0,
+                70,
+                21,
+                0
+            ],
+            "cmyk": "C:0 / M:70 / Y:21 / K:0",
+            "rgb_array": [
+                242,
+                114,
+                145
+            ],
+            "rgb": "R:242 / G:114 / B:145",
+            "hex": "#f27291",
+            "combinations": [
+                14,
+                147,
+                165,
+                184,
+                195,
+                224,
+                277
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 11,
+            "name": "Old Rose",
+            "slug": "old-rose",
+            "cmyk_array": [
+                15,
+                70,
+                40,
+                0
+            ],
+            "cmyk": "C:15 / M:70 / Y:40 / K:0",
+            "rgb_array": [
+                212,
+                109,
+                122
+            ],
+            "rgb": "R:212 / G:109 / B:122",
+            "hex": "#d46d7a",
+            "combinations": [
+                55,
+                162,
+                260,
+                265
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 12,
+            "name": "Eugenia Red | A",
+            "slug": "eugenia-red-|-a",
+            "cmyk_array": [
+                7,
+                76,
+                60,
+                0
+            ],
+            "cmyk": "C:7 / M:76 / Y:60 / K:0",
+            "rgb_array": [
+                226,
+                98,
+                94
+            ],
+            "rgb": "R:226 / G:98 / B:94",
+            "hex": "#e2625e",
+            "combinations": [
+                284
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 13,
+            "name": "Eugenia Red | B",
+            "slug": "eugenia-red-|-b",
+            "cmyk_array": [
+                0,
+                80,
+                50,
+                10
+            ],
+            "cmyk": "C:0 / M:80 / Y:50 / K:10",
+            "rgb_array": [
+                218,
+                82,
+                93
+            ],
+            "rgb": "R:218 / G:82 / B:93",
+            "hex": "#da525d",
+            "combinations": [
+                17,
+                77,
+                252,
+                262,
+                270,
+                280,
+                282,
+                325
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 14,
+            "name": "Raw Sienna",
+            "slug": "raw-sienna",
+            "cmyk_array": [
+                18,
+                58,
+                100,
+                12
+            ],
+            "cmyk": "C:18 / M:58 / Y:100 / K:12",
+            "rgb_array": [
+                187,
+                113,
+                37
+            ],
+            "rgb": "R:187 / G:113 / B:37",
+            "hex": "#bb7125",
+            "combinations": [
+                3,
+                13,
+                33,
+                70,
+                86,
+                130,
+                131,
+                182,
+                243,
+                247,
+                252,
+                255,
+                268,
+                269,
+                279,
+                293,
+                298,
+                319,
+                327
+            ],
+            "use_count": 19
+        },
+        {
+            "index": 15,
+            "name": "Vinaceous Tawny",
+            "slug": "vinaceous-tawny",
+            "cmyk_array": [
+                17,
+                72,
+                100,
+                6
+            ],
+            "cmyk": "C:17 / M:72 / Y:100 / K:6",
+            "rgb_array": [
+                197,
+                97,
+                39
+            ],
+            "rgb": "R:197 / G:97 / B:39",
+            "hex": "#c56127",
+            "combinations": [
+                40,
+                85,
+                244
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 16,
+            "name": "Jasper Red",
+            "slug": "jasper-red",
+            "cmyk_array": [
+                2,
+                83,
+                100,
+                0
+            ],
+            "cmyk": "C:2 / M:83 / Y:100 / K:0",
+            "rgb_array": [
+                235,
+                83,
+                36
+            ],
+            "rgb": "R:235 / G:83 / B:36",
+            "hex": "#eb5324",
+            "combinations": [
+                155,
+                194,
+                216,
+                219
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 17,
+            "name": "Spectrum Red",
+            "slug": "spectrum-red",
+            "cmyk_array": [
+                5,
+                100,
+                100,
+                0
+            ],
+            "cmyk": "C:5 / M:100 / Y:100 / K:0",
+            "rgb_array": [
+                227,
+                31,
+                38
+            ],
+            "rgb": "R:227 / G:31 / B:38",
+            "hex": "#e31f26",
+            "combinations": [
+                257,
+                266,
+                301,
+                322
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 18,
+            "name": "Red Orange",
+            "slug": "red-orange",
+            "cmyk_array": [
+                9,
+                90,
+                100,
+                0
+            ],
+            "cmyk": "C:9 / M:90 / Y:100 / K:0",
+            "rgb_array": [
+                221,
+                64,
+                39
+            ],
+            "rgb": "R:221 / G:64 / B:39",
+            "hex": "#dd4027",
+            "combinations": [
+                31,
+                164,
+                179,
+                241,
+                264
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 19,
+            "name": "Etruscan Red",
+            "slug": "etruscan-red",
+            "cmyk_array": [
+                16,
+                80,
+                74,
+                6
+            ],
+            "cmyk": "C:16 / M:80 / Y:74 / K:6",
+            "rgb_array": [
+                197,
+                83,
+                71
+            ],
+            "rgb": "R:197 / G:83 / B:71",
+            "hex": "#c55347",
+            "combinations": [
+                25,
+                47,
+                97,
+                137,
+                152,
+                185,
+                275
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 20,
+            "name": "Burnt Sienna",
+            "slug": "burnt-sienna",
+            "cmyk_array": [
+                22,
+                76,
+                100,
+                15
+            ],
+            "cmyk": "C:22 / M:76 / Y:100 / K:15",
+            "rgb_array": [
+                174,
+                82,
+                36
+            ],
+            "rgb": "R:174 / G:82 / B:36",
+            "hex": "#ae5224",
+            "combinations": [
+                198,
+                242,
+                263,
+                285,
+                286,
+                297,
+                312,
+                333,
+                343
+            ],
+            "use_count": 9
+        },
+        {
+            "index": 21,
+            "name": "Ochre Red",
+            "slug": "ochre-red",
+            "cmyk_array": [
+                18,
+                73,
+                63,
+                20
+            ],
+            "cmyk": "C:18 / M:73 / Y:63 / K:20",
+            "rgb_array": [
+                171,
+                84,
+                77
+            ],
+            "rgb": "R:171 / G:84 / B:77",
+            "hex": "#ab544d",
+            "combinations": [
+                199,
+                283
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 22,
+            "name": "Scarlet",
+            "slug": "scarlet",
+            "cmyk_array": [
+                10,
+                95,
+                72,
+                7
+            ],
+            "cmyk": "C:10 / M:95 / Y:72 / K:7",
+            "rgb_array": [
+                203,
+                47,
+                67
+            ],
+            "rgb": "R:203 / G:47 / B:67",
+            "hex": "#cb2f43",
+            "combinations": [
+                136,
+                308,
+                332
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 23,
+            "name": "Carmine",
+            "slug": "carmine",
+            "cmyk_array": [
+                0,
+                100,
+                75,
+                16
+            ],
+            "cmyk": "C:0 / M:100 / Y:75 / K:16",
+            "rgb_array": [
+                204,
+                18,
+                54
+            ],
+            "rgb": "R:204 / G:18 / B:54",
+            "hex": "#cc1236",
+            "combinations": [
+                39,
+                117,
+                122,
+                154,
+                225,
+                232,
+                307,
+                313
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 24,
+            "name": "Indian Lake",
+            "slug": "indian-lake",
+            "cmyk_array": [
+                12,
+                89,
+                35,
+                9
+            ],
+            "cmyk": "C:12 / M:89 / Y:35 / K:9",
+            "rgb_array": [
+                197,
+                60,
+                105
+            ],
+            "rgb": "R:197 / G:60 / B:105",
+            "hex": "#c53c69",
+            "combinations": [
+                299,
+                331
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 25,
+            "name": "Rosolanc Purple",
+            "slug": "rosolanc-purple",
+            "cmyk_array": [
+                30,
+                90,
+                33,
+                0
+            ],
+            "cmyk": "C:30 / M:90 / Y:33 / K:0",
+            "rgb_array": [
+                183,
+                63,
+                116
+            ],
+            "rgb": "R:183 / G:63 / B:116",
+            "hex": "#b73f74",
+            "combinations": [
+                48,
+                144,
+                170,
+                204,
+                277
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 26,
+            "name": "Pomegranite Purple",
+            "slug": "pomegranite-purple",
+            "cmyk_array": [
+                23,
+                100,
+                50,
+                6
+            ],
+            "cmyk": "C:23 / M:100 / Y:50 / K:6",
+            "rgb_array": [
+                183,
+                31,
+                87
+            ],
+            "rgb": "R:183 / G:31 / B:87",
+            "hex": "#b71f57",
+            "combinations": [
+                220,
+                271
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 27,
+            "name": "Hydrangea Red",
+            "slug": "hydrangea-red",
+            "cmyk_array": [
+                38,
+                90,
+                70,
+                0
+            ],
+            "cmyk": "C:38 / M:90 / Y:70 / K:0",
+            "rgb_array": [
+                169,
+                65,
+                81
+            ],
+            "rgb": "R:169 / G:65 / B:81",
+            "hex": "#a94151",
+            "combinations": [
+                142
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 28,
+            "name": "Brick Red",
+            "slug": "brick-red",
+            "cmyk_array": [
+                22,
+                84,
+                100,
+                18
+            ],
+            "cmyk": "C:22 / M:84 / Y:100 / K:18",
+            "rgb_array": [
+                168,
+                66,
+                34
+            ],
+            "rgb": "R:168 / G:66 / B:34",
+            "hex": "#a84222",
+            "combinations": [
+                37,
+                108,
+                246,
+                322,
+                328
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 29,
+            "name": "Carmine Red",
+            "slug": "carmine-red",
+            "cmyk_array": [
+                25,
+                95,
+                80,
+                16
+            ],
+            "cmyk": "C:25 / M:95 / Y:80 / K:16",
+            "rgb_array": [
+                166,
+                44,
+                55
+            ],
+            "rgb": "R:166 / G:44 / B:55",
+            "hex": "#a62c37",
+            "combinations": [
+                35,
+                51,
+                104,
+                130,
+                181,
+                200,
+                221,
+                228,
+                233,
+                237,
+                245
+            ],
+            "use_count": 11
+        },
+        {
+            "index": 30,
+            "name": "Pompeian Red",
+            "slug": "pompeian-red",
+            "cmyk_array": [
+                18,
+                97,
+                74,
+                19
+            ],
+            "cmyk": "C:18 / M:97 / Y:74 / K:19",
+            "rgb_array": [
+                171,
+                36,
+                57
+            ],
+            "rgb": "R:171 / G:36 / B:57",
+            "hex": "#ab2439",
+            "combinations": [
+                30,
+                71,
+                120,
+                212,
+                311,
+                324
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 31,
+            "name": "Red",
+            "slug": "red",
+            "cmyk_array": [
+                30,
+                100,
+                70,
+                10
+            ],
+            "cmyk": "C:30 / M:100 / Y:70 / K:10",
+            "rgb_array": [
+                167,
+                33,
+                68
+            ],
+            "rgb": "R:167 / G:33 / B:68",
+            "hex": "#a72144",
+            "combinations": [
+                251,
+                261
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 32,
+            "name": "Brown",
+            "slug": "brown",
+            "cmyk_array": [
+                35,
+                74,
+                90,
+                35
+            ],
+            "cmyk": "C:35 / M:74 / Y:90 / K:35",
+            "rgb_array": [
+                124,
+                66,
+                38
+            ],
+            "rgb": "R:124 / G:66 / B:38",
+            "hex": "#7c4226",
+            "combinations": [
+                110,
+                121,
+                145,
+                161
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 33,
+            "name": "Hay's Russet",
+            "slug": "hay's-russet",
+            "cmyk_array": [
+                37,
+                85,
+                87,
+                35
+            ],
+            "cmyk": "C:37 / M:85 / Y:87 / K:35",
+            "rgb_array": [
+                121,
+                51,
+                39
+            ],
+            "rgb": "R:121 / G:51 / B:39",
+            "hex": "#793327",
+            "combinations": [
+                58,
+                82,
+                95,
+                152,
+                186,
+                231,
+                249,
+                304,
+                314,
+                336,
+                345
+            ],
+            "use_count": 11
+        },
+        {
+            "index": 34,
+            "name": "Vandyke Red",
+            "slug": "vandyke-red",
+            "cmyk_array": [
+                32,
+                95,
+                95,
+                33
+            ],
+            "cmyk": "C:32 / M:95 / Y:95 / K:33",
+            "rgb_array": [
+                130,
+                36,
+                31
+            ],
+            "rgb": "R:130 / G:36 / B:31",
+            "hex": "#82241f",
+            "combinations": [
+                16,
+                133,
+                147,
+                316,
+                335
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 35,
+            "name": "Pansy Purple",
+            "slug": "pansy-purple",
+            "cmyk_array": [
+                34,
+                100,
+                60,
+                34
+            ],
+            "cmyk": "C:34 / M:100 / Y:60 / K:34",
+            "rgb_array": [
+                125,
+                19,
+                58
+            ],
+            "rgb": "R:125 / G:19 / B:58",
+            "hex": "#7d133a",
+            "combinations": [
+                157,
+                273
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 36,
+            "name": "Pale Burnt Lake",
+            "slug": "pale-burnt-lake",
+            "cmyk_array": [
+                25,
+                90,
+                80,
+                40
+            ],
+            "cmyk": "C:25 / M:90 / Y:80 / K:40",
+            "rgb_array": [
+                128,
+                38,
+                38
+            ],
+            "rgb": "R:128 / G:38 / B:38",
+            "hex": "#802626",
+            "combinations": [
+                124,
+                171,
+                177,
+                205,
+                217,
+                258,
+                269,
+                283
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 37,
+            "name": "Violet Red",
+            "slug": "violet-red",
+            "cmyk_array": [
+                75,
+                100,
+                50,
+                5
+            ],
+            "cmyk": "C:75 / M:100 / Y:50 / K:5",
+            "rgb_array": [
+                100,
+                45,
+                94
+            ],
+            "rgb": "R:100 / G:45 / B:94",
+            "hex": "#642d5e",
+            "combinations": [
+                9
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 38,
+            "name": "Vistoris Lake",
+            "slug": "vistoris-lake",
+            "cmyk_array": [
+                40,
+                71,
+                55,
+                40
+            ],
+            "cmyk": "C:40 / M:71 / Y:55 / K:40",
+            "rgb_array": [
+                109,
+                65,
+                69
+            ],
+            "rgb": "R:109 / G:65 / B:69",
+            "hex": "#6d4145",
+            "combinations": [
+                63,
+                91,
+                165,
+                226,
+                290,
+                337
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 39,
+            "name": "Sulpher Yellow",
+            "slug": "sulpher-yellow",
+            "cmyk_array": [
+                4,
+                4,
+                28,
+                0
+            ],
+            "cmyk": "C:4 / M:4 / Y:28 / K:0",
+            "rgb_array": [
+                245,
+                236,
+                194
+            ],
+            "rgb": "R:245 / G:236 / B:194",
+            "hex": "#f5ecc2",
+            "combinations": [
+                52,
+                72,
+                80,
+                104,
+                132,
+                135,
+                151,
+                208,
+                246,
+                254,
+                270,
+                294,
+                296,
+                310,
+                315,
+                320,
+                321,
+                326
+            ],
+            "use_count": 18
+        },
+        {
+            "index": 40,
+            "name": "Pale Lemon Yellow",
+            "slug": "pale-lemon-yellow",
+            "cmyk_array": [
+                0,
+                4,
+                38,
+                0
+            ],
+            "cmyk": "C:0 / M:4 / Y:38 / K:0",
+            "rgb_array": [
+                255,
+                239,
+                174
+            ],
+            "rgb": "R:255 / G:239 / B:174",
+            "hex": "#ffefae",
+            "combinations": [
+                3,
+                31,
+                60,
+                76,
+                99,
+                109,
+                111,
+                169,
+                185,
+                195,
+                203,
+                228,
+                241,
+                261,
+                272,
+                281,
+                290,
+                292,
+                336
+            ],
+            "use_count": 19
+        },
+        {
+            "index": 41,
+            "name": "Naples Yellow",
+            "slug": "naples-yellow",
+            "cmyk_array": [
+                2,
+                7,
+                44,
+                0
+            ],
+            "cmyk": "C:2 / M:7 / Y:44 / K:0",
+            "rgb_array": [
+                251,
+                230,
+                160
+            ],
+            "rgb": "R:251 / G:230 / B:160",
+            "hex": "#fbe6a0",
+            "combinations": [
+                14,
+                115,
+                166,
+                193,
+                303,
+                325
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 42,
+            "name": "Ivory Buff",
+            "slug": "ivory-buff",
+            "cmyk_array": [
+                8,
+                15,
+                40,
+                0
+            ],
+            "cmyk": "C:8 / M:15 / Y:40 / K:0",
+            "rgb_array": [
+                235,
+                211,
+                162
+            ],
+            "rgb": "R:235 / G:211 / B:162",
+            "hex": "#ebd3a2",
+            "combinations": [
+                11,
+                50,
+                94,
+                102,
+                126,
+                178,
+                184,
+                190,
+                209,
+                214,
+                235,
+                243,
+                262,
+                266,
+                301,
+                343
+            ],
+            "use_count": 16
+        },
+        {
+            "index": 43,
+            "name": "Seashell Pink",
+            "slug": "seashell-pink",
+            "cmyk_array": [
+                0,
+                19,
+                23,
+                0
+            ],
+            "cmyk": "C:0 / M:19 / Y:23 / K:0",
+            "rgb_array": [
+                253,
+                212,
+                189
+            ],
+            "rgb": "R:253 / G:212 / B:189",
+            "hex": "#fdd4bd",
+            "combinations": [
+                45,
+                84,
+                88,
+                113,
+                150,
+                176,
+                194,
+                276,
+                334
+            ],
+            "use_count": 9
+        },
+        {
+            "index": 44,
+            "name": "Light Pinkish Cinnamon",
+            "slug": "light-pinkish-cinnamon",
+            "cmyk_array": [
+                0,
+                25,
+                40,
+                0
+            ],
+            "cmyk": "C:0 / M:25 / Y:40 / K:0",
+            "rgb_array": [
+                252,
+                199,
+                155
+            ],
+            "rgb": "R:252 / G:199 / B:155",
+            "hex": "#fcc79b",
+            "combinations": [
+                317
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 45,
+            "name": "Pinkish Cinnamon",
+            "slug": "pinkish-cinnamon",
+            "cmyk_array": [
+                5,
+                32,
+                53,
+                0
+            ],
+            "cmyk": "C:5 / M:32 / Y:53 / K:0",
+            "rgb_array": [
+                238,
+                180,
+                128
+            ],
+            "rgb": "R:238 / G:180 / B:128",
+            "hex": "#eeb480",
+            "combinations": [
+                78,
+                175,
+                232,
+                258,
+                263,
+                292,
+                305,
+                310
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 46,
+            "name": "Cinnamon Buff",
+            "slug": "cinnamon-buff",
+            "cmyk_array": [
+                0,
+                25,
+                57,
+                0
+            ],
+            "cmyk": "C:0 / M:25 / Y:57 / K:0",
+            "rgb_array": [
+                253,
+                197,
+                126
+            ],
+            "rgb": "R:253 / G:197 / B:126",
+            "hex": "#fdc57e",
+            "combinations": [
+                23,
+                127,
+                137,
+                180,
+                210,
+                234,
+                246,
+                323,
+                344
+            ],
+            "use_count": 9
+        },
+        {
+            "index": 47,
+            "name": "Cream Yellow",
+            "slug": "cream-yellow",
+            "cmyk_array": [
+                0,
+                28,
+                68,
+                0
+            ],
+            "cmyk": "C:0 / M:28 / Y:68 / K:0",
+            "rgb_array": [
+                253,
+                191,
+                104
+            ],
+            "rgb": "R:253 / G:191 / B:104",
+            "hex": "#fdbf68",
+            "combinations": [
+                122,
+                192,
+                215,
+                226,
+                267,
+                278,
+                294,
+                295,
+                300,
+                302,
+                304,
+                311,
+                329,
+                342
+            ],
+            "use_count": 14
+        },
+        {
+            "index": 48,
+            "name": "Golden Yellow",
+            "slug": "golden-yellow",
+            "cmyk_array": [
+                2,
+                42,
+                74,
+                0
+            ],
+            "cmyk": "C:2 / M:42 / Y:74 / K:0",
+            "rgb_array": [
+                243,
+                162,
+                87
+            ],
+            "rgb": "R:243 / G:162 / B:87",
+            "hex": "#f3a257",
+            "combinations": [
+                26,
+                81,
+                132,
+                138,
+                140,
+                179
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 49,
+            "name": "Vinaceous Cinnamon",
+            "slug": "vinaceous-cinnamon",
+            "cmyk_array": [
+                4,
+                40,
+                42,
+                0
+            ],
+            "cmyk": "C:4 / M:40 / Y:42 / K:0",
+            "rgb_array": [
+                238,
+                167,
+                140
+            ],
+            "rgb": "R:238 / G:167 / B:140",
+            "hex": "#eea78c",
+            "combinations": [
+                203,
+                205,
+                213,
+                256,
+                260,
+                279,
+                299
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 50,
+            "name": "Ochraceous Salmon",
+            "slug": "ochraceous-salmon",
+            "cmyk_array": [
+                15,
+                38,
+                55,
+                0
+            ],
+            "cmyk": "C:15 / M:38 / Y:55 / K:0",
+            "rgb_array": [
+                216,
+                163,
+                123
+            ],
+            "rgb": "R:216 / G:163 / B:123",
+            "hex": "#d8a37b",
+            "combinations": [
+                32,
+                71,
+                121,
+                186,
+                217,
+                220,
+                223,
+                238,
+                296,
+                339
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 51,
+            "name": "Isabella Color",
+            "slug": "isabella-color",
+            "cmyk_array": [
+                15,
+                28,
+                60,
+                10
+            ],
+            "cmyk": "C:15 / M:28 / Y:60 / K:10",
+            "rgb_array": [
+                197,
+                165,
+                110
+            ],
+            "rgb": "R:197 / G:165 / B:110",
+            "hex": "#c5a56e",
+            "combinations": [
+                4,
+                12,
+                241,
+                292
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 52,
+            "name": "Maple",
+            "slug": "maple",
+            "cmyk_array": [
+                5,
+                26,
+                56,
+                20
+            ],
+            "cmyk": "C:5 / M:26 / Y:56 / K:20",
+            "rgb_array": [
+                197,
+                159,
+                107
+            ],
+            "rgb": "R:197 / G:159 / B:107",
+            "hex": "#c59f6b",
+            "combinations": [
+                282
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 53,
+            "name": "Olive Buff",
+            "slug": "olive-buff",
+            "cmyk_array": [
+                16,
+                6,
+                42,
+                12
+            ],
+            "cmyk": "C:16 / M:6 / Y:42 / K:12",
+            "rgb_array": [
+                193,
+                196,
+                148
+            ],
+            "rgb": "R:193 / G:196 / B:148",
+            "hex": "#c1c494",
+            "combinations": [
+                83,
+                175,
+                200,
+                330,
+                348
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 54,
+            "name": "Ecru",
+            "slug": "ecru",
+            "cmyk_array": [
+                20,
+                25,
+                40,
+                6
+            ],
+            "cmyk": "C:20 / M:25 / Y:40 / K:6",
+            "rgb_array": [
+                194,
+                174,
+                147
+            ],
+            "rgb": "R:194 / G:174 / B:147",
+            "hex": "#c2ae93",
+            "combinations": [
+                167,
+                249,
+                275,
+                279,
+                292,
+                302,
+                317,
+                327
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 55,
+            "name": "Yellow",
+            "slug": "yellow",
+            "cmyk_array": [
+                0,
+                0,
+                100,
+                0
+            ],
+            "cmyk": "C:0 / M:0 / Y:100 / K:0",
+            "rgb_array": [
+                255,
+                242,
+                0
+            ],
+            "rgb": "R:255 / G:242 / B:0",
+            "hex": "#fff200",
+            "combinations": [
+                22,
+                62,
+                68,
+                154,
+                240,
+                251,
+                295,
+                313
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 56,
+            "name": "Lemon Yellow",
+            "slug": "lemon-yellow",
+            "cmyk_array": [
+                5,
+                0,
+                85,
+                0
+            ],
+            "cmyk": "C:5 / M:0 / Y:85 / K:0",
+            "rgb_array": [
+                248,
+                237,
+                67
+            ],
+            "rgb": "R:248 / G:237 / B:67",
+            "hex": "#f8ed43",
+            "combinations": [
+                45,
+                123,
+                138,
+                158,
+                168,
+                173,
+                189,
+                210,
+                253,
+                259,
+                289,
+                298,
+                306,
+                317,
+                333
+            ],
+            "use_count": 15
+        },
+        {
+            "index": 57,
+            "name": "Apricot Yellow",
+            "slug": "apricot-yellow",
+            "cmyk_array": [
+                0,
+                10,
+                100,
+                0
+            ],
+            "cmyk": "C:0 / M:10 / Y:100 / K:0",
+            "rgb_array": [
+                255,
+                221,
+                0
+            ],
+            "rgb": "R:255 / G:221 / B:0",
+            "hex": "#ffdd00",
+            "combinations": [
+                107,
+                129,
+                163,
+                198,
+                213,
+                247,
+                265,
+                284,
+                305,
+                319
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 58,
+            "name": "Pyrite Yellow",
+            "slug": "pyrite-yellow",
+            "cmyk_array": [
+                23,
+                25,
+                80,
+                0
+            ],
+            "cmyk": "C:23 / M:25 / Y:80 / K:0",
+            "rgb_array": [
+                202,
+                179,
+                86
+            ],
+            "rgb": "R:202 / G:179 / B:86",
+            "hex": "#cab356",
+            "combinations": [
+                239,
+                250,
+                255,
+                287
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 59,
+            "name": "Olive Ocher",
+            "slug": "olive-ocher",
+            "cmyk_array": [
+                18,
+                26,
+                90,
+                0
+            ],
+            "cmyk": "C:18 / M:26 / Y:90 / K:0",
+            "rgb_array": [
+                214,
+                180,
+                62
+            ],
+            "rgb": "R:214 / G:180 / B:62",
+            "hex": "#d6b43e",
+            "combinations": [
+                66,
+                148,
+                149,
+                156,
+                157,
+                249,
+                278
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 60,
+            "name": "Yellow Ocher",
+            "slug": "yellow-ocher",
+            "cmyk_array": [
+                12,
+                28,
+                88,
+                0
+            ],
+            "cmyk": "C:12 / M:28 / Y:88 / K:0",
+            "rgb_array": [
+                226,
+                181,
+                64
+            ],
+            "rgb": "R:226 / G:181 / B:64",
+            "hex": "#e2b540",
+            "combinations": [
+                42,
+                96,
+                118,
+                124,
+                126,
+                191,
+                222,
+                325
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 61,
+            "name": "Orange Yellow",
+            "slug": "orange-yellow",
+            "cmyk_array": [
+                0,
+                33,
+                100,
+                0
+            ],
+            "cmyk": "C:0 / M:33 / Y:100 / K:0",
+            "rgb_array": [
+                252,
+                179,
+                21
+            ],
+            "rgb": "R:252 / G:179 / B:21",
+            "hex": "#fcb315",
+            "combinations": [
+                114,
+                148,
+                153,
+                164,
+                170,
+                257,
+                286,
+                338
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 62,
+            "name": "Yellow Orange",
+            "slug": "yellow-orange",
+            "cmyk_array": [
+                0,
+                45,
+                100,
+                0
+            ],
+            "cmyk": "C:0 / M:45 / Y:100 / K:0",
+            "rgb_array": [
+                249,
+                157,
+                27
+            ],
+            "rgb": "R:249 / G:157 / B:27",
+            "hex": "#f99d1b",
+            "combinations": [
+                22,
+                53,
+                89,
+                151,
+                171,
+                209,
+                222,
+                235,
+                267,
+                288,
+                297,
+                312,
+                319,
+                335
+            ],
+            "use_count": 14
+        },
+        {
+            "index": 63,
+            "name": "Apricot Orange",
+            "slug": "apricot-orange",
+            "cmyk_array": [
+                0,
+                55,
+                75,
+                0
+            ],
+            "cmyk": "C:0 / M:55 / Y:75 / K:0",
+            "rgb_array": [
+                246,
+                140,
+                80
+            ],
+            "rgb": "R:246 / G:140 / B:80",
+            "hex": "#f68c50",
+            "combinations": [
+                211,
+                253,
+                309,
+                328
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 64,
+            "name": "Orange",
+            "slug": "orange",
+            "cmyk_array": [
+                0,
+                68,
+                100,
+                0
+            ],
+            "cmyk": "C:0 / M:68 / Y:100 / K:0",
+            "rgb_array": [
+                243,
+                116,
+                32
+            ],
+            "rgb": "R:243 / G:116 / B:32",
+            "hex": "#f37420",
+            "combinations": [
+                7,
+                46,
+                141,
+                144,
+                149,
+                256,
+                272
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 65,
+            "name": "Peach Red",
+            "slug": "peach-red",
+            "cmyk_array": [
+                0,
+                80,
+                90,
+                0
+            ],
+            "cmyk": "C:0 / M:80 / Y:90 / K:0",
+            "rgb_array": [
+                241,
+                90,
+                48
+            ],
+            "rgb": "R:241 / G:90 / B:48",
+            "hex": "#f15a30",
+            "combinations": [
+                115,
+                250,
+                274,
+                285,
+                298,
+                303,
+                326,
+                340
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 66,
+            "name": "English Red",
+            "slug": "english-red",
+            "cmyk_array": [
+                13,
+                73,
+                100,
+                0
+            ],
+            "cmyk": "C:13 / M:73 / Y:100 / K:0",
+            "rgb_array": [
+                217,
+                102,
+                41
+            ],
+            "rgb": "R:217 / G:102 / B:41",
+            "hex": "#d96629",
+            "combinations": [
+                1,
+                131,
+                190,
+                308,
+                339
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 67,
+            "name": "Cinnamon Rufous",
+            "slug": "cinnamon-rufous",
+            "cmyk_array": [
+                20,
+                60,
+                82,
+                5
+            ],
+            "cmyk": "C:20 / M:60 / Y:82 / K:5",
+            "rgb_array": [
+                194,
+                117,
+                68
+            ],
+            "rgb": "R:194 / G:117 / B:68",
+            "hex": "#c27544",
+            "combinations": [
+                8,
+                10,
+                103,
+                158,
+                172,
+                204,
+                206
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 68,
+            "name": "Orange Rufous",
+            "slug": "orange-rufous",
+            "cmyk_array": [
+                18,
+                65,
+                100,
+                8
+            ],
+            "cmyk": "C:18 / M:65 / Y:100 / K:8",
+            "rgb_array": [
+                193,
+                107,
+                39
+            ],
+            "rgb": "R:193 / G:107 / B:39",
+            "hex": "#c16b27",
+            "combinations": [
+                91,
+                102,
+                222
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 69,
+            "name": "Sulphine Yellow",
+            "slug": "sulphine-yellow",
+            "cmyk_array": [
+                24,
+                32,
+                100,
+                4
+            ],
+            "cmyk": "C:24 / M:32 / Y:100 / K:4",
+            "rgb_array": [
+                193,
+                159,
+                44
+            ],
+            "rgb": "R:193 / G:159 / B:44",
+            "hex": "#c19f2c",
+            "combinations": [
+                36,
+                65,
+                142,
+                160,
+                252
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 70,
+            "name": "Khaki",
+            "slug": "khaki",
+            "cmyk_array": [
+                24,
+                45,
+                100,
+                6
+            ],
+            "cmyk": "C:24 / M:45 / Y:100 / K:6",
+            "rgb_array": [
+                188,
+                137,
+                43
+            ],
+            "rgb": "R:188 / G:137 / B:43",
+            "hex": "#bc892b",
+            "combinations": [
+                129,
+                146,
+                159,
+                236,
+                248
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 71,
+            "name": "Citron Yellow",
+            "slug": "citron-yellow",
+            "cmyk_array": [
+                35,
+                17,
+                95,
+                0
+            ],
+            "cmyk": "C:35 / M:17 / Y:95 / K:0",
+            "rgb_array": [
+                178,
+                183,
+                62
+            ],
+            "rgb": "R:178 / G:183 / B:62",
+            "hex": "#b2b73e",
+            "combinations": [
+                59,
+                93,
+                132,
+                133,
+                262
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 72,
+            "name": "Buffy Citrine",
+            "slug": "buffy-citrine",
+            "cmyk_array": [
+                42,
+                40,
+                82,
+                8
+            ],
+            "cmyk": "C:42 / M:40 / Y:82 / K:8",
+            "rgb_array": [
+                150,
+                135,
+                77
+            ],
+            "rgb": "R:150 / G:135 / B:77",
+            "hex": "#96874d",
+            "combinations": [
+                100,
+                177,
+                233
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 73,
+            "name": "Dark Citrine",
+            "slug": "dark-citrine",
+            "cmyk_array": [
+                38,
+                34,
+                67,
+                20
+            ],
+            "cmyk": "C:38 / M:34 / Y:67 / K:20",
+            "rgb_array": [
+                139,
+                131,
+                91
+            ],
+            "rgb": "R:139 / G:131 / B:91",
+            "hex": "#8b835b",
+            "combinations": [
+                10,
+                41,
+                274,
+                304
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 74,
+            "name": "Light Grayish Olive",
+            "slug": "light-grayish-olive",
+            "cmyk_array": [
+                43,
+                36,
+                62,
+                19
+            ],
+            "cmyk": "C:43 / M:36 / Y:62 / K:19",
+            "rgb_array": [
+                132,
+                128,
+                97
+            ],
+            "rgb": "R:132 / G:128 / B:97",
+            "hex": "#848061",
+            "combinations": [
+                107,
+                184
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 75,
+            "name": "Krongbergs Green",
+            "slug": "krongbergs-green",
+            "cmyk_array": [
+                48,
+                35,
+                70,
+                12
+            ],
+            "cmyk": "C:48 / M:35 / Y:70 / K:12",
+            "rgb_array": [
+                132,
+                135,
+                94
+            ],
+            "rgb": "R:132 / G:135 / B:94",
+            "hex": "#84875e",
+            "combinations": [
+                29
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 76,
+            "name": "Olive",
+            "slug": "olive",
+            "cmyk_array": [
+                48,
+                38,
+                100,
+                15
+            ],
+            "cmyk": "C:48 / M:38 / Y:100 / K:15",
+            "rgb_array": [
+                131,
+                126,
+                49
+            ],
+            "rgb": "R:131 / G:126 / B:49",
+            "hex": "#837e31",
+            "combinations": [
+                96,
+                201,
+                254,
+                258,
+                277,
+                310,
+                334
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 77,
+            "name": "Orange Citrine",
+            "slug": "orange-citrine",
+            "cmyk_array": [
+                28,
+                48,
+                92,
+                24
+            ],
+            "cmyk": "C:28 / M:48 / Y:92 / K:24",
+            "rgb_array": [
+                152,
+                111,
+                45
+            ],
+            "rgb": "R:152 / G:111 / B:45",
+            "hex": "#986f2d",
+            "combinations": [
+                212,
+                342
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 78,
+            "name": "Sudan Brown",
+            "slug": "sudan-brown",
+            "cmyk_array": [
+                25,
+                60,
+                65,
+                19
+            ],
+            "cmyk": "C:25 / M:60 / Y:65 / K:19",
+            "rgb_array": [
+                163,
+                103,
+                82
+            ],
+            "rgb": "R:163 / G:103 / B:82",
+            "hex": "#a36752",
+            "combinations": [
+                207,
+                214,
+                273
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 79,
+            "name": "Olive Green",
+            "slug": "olive-green",
+            "cmyk_array": [
+                56,
+                40,
+                85,
+                22
+            ],
+            "cmyk": "C:56 / M:40 / Y:85 / K:22",
+            "rgb_array": [
+                107,
+                113,
+                64
+            ],
+            "rgb": "R:107 / G:113 / B:64",
+            "hex": "#6b7140",
+            "combinations": [
+                66,
+                243,
+                270,
+                297
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 80,
+            "name": "Light Brownish Olive",
+            "slug": "light-brownish-olive",
+            "cmyk_array": [
+                42,
+                46,
+                73,
+                24
+            ],
+            "cmyk": "C:42 / M:46 / Y:73 / K:24",
+            "rgb_array": [
+                128,
+                110,
+                75
+            ],
+            "rgb": "R:128 / G:110 / B:75",
+            "hex": "#806e4b",
+            "combinations": [
+                199,
+                318
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 81,
+            "name": "Deep Grayish Olive",
+            "slug": "deep-grayish-olive",
+            "cmyk_array": [
+                50,
+                48,
+                78,
+                37
+            ],
+            "cmyk": "C:50 / M:48 / Y:78 / K:37",
+            "rgb_array": [
+                99,
+                90,
+                58
+            ],
+            "rgb": "R:99 / G:90 / B:58",
+            "hex": "#635a3a",
+            "combinations": [
+                146,
+                343
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 82,
+            "name": "Pale Raw Umber",
+            "slug": "pale-raw-umber",
+            "cmyk_array": [
+                46,
+                63,
+                87,
+                32
+            ],
+            "cmyk": "C:46 / M:63 / Y:87 / K:32",
+            "rgb_array": [
+                113,
+                80,
+                47
+            ],
+            "rgb": "R:113 / G:80 / B:47",
+            "hex": "#71502f",
+            "combinations": [
+                26,
+                73,
+                160,
+                234,
+                296
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 83,
+            "name": "Sepia",
+            "slug": "sepia",
+            "cmyk_array": [
+                48,
+                60,
+                100,
+                40
+            ],
+            "cmyk": "C:48 / M:60 / Y:100 / K:40",
+            "rgb_array": [
+                100,
+                75,
+                30
+            ],
+            "rgb": "R:100 / G:75 / B:30",
+            "hex": "#644b1e",
+            "combinations": [
+                24,
+                288
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 84,
+            "name": "Madder Brown",
+            "slug": "madder-brown",
+            "cmyk_array": [
+                36,
+                88,
+                100,
+                38
+            ],
+            "cmyk": "C:36 / M:88 / Y:100 / K:38",
+            "rgb_array": [
+                118,
+                44,
+                25
+            ],
+            "rgb": "R:118 / G:44 / B:25",
+            "hex": "#762c19",
+            "combinations": [
+                28,
+                79,
+                98,
+                173,
+                237,
+                275,
+                323
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 85,
+            "name": "Mars Brown / Tobacco",
+            "slug": "mars-brown-tobacco",
+            "cmyk_array": [
+                39,
+                76,
+                100,
+                47
+            ],
+            "cmyk": "C:39 / M:76 / Y:100 / K:47",
+            "rgb_array": [
+                101,
+                53,
+                20
+            ],
+            "rgb": "R:101 / G:53 / B:20",
+            "hex": "#653514",
+            "combinations": [
+                19
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 86,
+            "name": "Vandyke Brown",
+            "slug": "vandyke-brown",
+            "cmyk_array": [
+                56,
+                71,
+                97,
+                52
+            ],
+            "cmyk": "C:56 / M:71 / Y:97 / K:52",
+            "rgb_array": [
+                75,
+                51,
+                23
+            ],
+            "rgb": "R:75 / G:51 / B:23",
+            "hex": "#4b3317",
+            "combinations": [
+                110,
+                113,
+                118,
+                182,
+                192
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 87,
+            "name": "Turquoise Green",
+            "slug": "turquoise-green",
+            "cmyk_array": [
+                29,
+                0,
+                24,
+                0
+            ],
+            "cmyk": "C:29 / M:0 / Y:24 / K:0",
+            "rgb_array": [
+                181,
+                222,
+                204
+            ],
+            "rgb": "R:181 / G:222 / B:204",
+            "hex": "#b5decc",
+            "combinations": [
+                36,
+                74,
+                147,
+                163,
+                173,
+                202,
+                223,
+                230,
+                263,
+                272,
+                285,
+                293,
+                300,
+                305,
+                317,
+                346
+            ],
+            "use_count": 16
+        },
+        {
+            "index": 88,
+            "name": "Glaucous Green",
+            "slug": "glaucous-green",
+            "cmyk_array": [
+                30,
+                9,
+                24,
+                0
+            ],
+            "cmyk": "C:30 / M:9 / Y:24 / K:0",
+            "rgb_array": [
+                180,
+                205,
+                194
+            ],
+            "rgb": "R:180 / G:205 / B:194",
+            "hex": "#b4cdc2",
+            "combinations": [
+                7,
+                150,
+                171,
+                207,
+                239,
+                260
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 89,
+            "name": "Dark Greenish Glaucous",
+            "slug": "dark-greenish-glaucous",
+            "cmyk_array": [
+                30,
+                15,
+                36,
+                0
+            ],
+            "cmyk": "C:30 / M:15 / Y:36 / K:0",
+            "rgb_array": [
+                183,
+                194,
+                169
+            ],
+            "rgb": "R:183 / G:194 / B:169",
+            "hex": "#b7c2a9",
+            "combinations": [
+                264,
+                311
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 90,
+            "name": "Yellow Green",
+            "slug": "yellow-green",
+            "cmyk_array": [
+                35,
+                0,
+                72,
+                0
+            ],
+            "cmyk": "C:35 / M:0 / Y:72 / K:0",
+            "rgb_array": [
+                175,
+                212,
+                114
+            ],
+            "rgb": "R:175 / G:212 / B:114",
+            "hex": "#afd472",
+            "combinations": [
+                111,
+                141,
+                276,
+                326,
+                334
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 91,
+            "name": "Light Green Yellow",
+            "slug": "light-green-yellow",
+            "cmyk_array": [
+                26,
+                5,
+                85,
+                0
+            ],
+            "cmyk": "C:26 / M:5 / Y:85 / K:0",
+            "rgb_array": [
+                199,
+                209,
+                79
+            ],
+            "rgb": "R:199 / G:209 / B:79",
+            "hex": "#c7d14f",
+            "combinations": [
+                61,
+                289,
+                291,
+                311,
+                346
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 92,
+            "name": "Night Green",
+            "slug": "night-green",
+            "cmyk_array": [
+                52,
+                0,
+                100,
+                0
+            ],
+            "cmyk": "C:52 / M:0 / Y:100 / K:0",
+            "rgb_array": [
+                135,
+                197,
+                64
+            ],
+            "rgb": "R:135 / G:197 / B:64",
+            "hex": "#87c540",
+            "combinations": [
+                19,
+                32,
+                158,
+                326
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 93,
+            "name": "Olive Yellow",
+            "slug": "olive-yellow",
+            "cmyk_array": [
+                40,
+                30,
+                80,
+                0
+            ],
+            "cmyk": "C:40 / M:30 / Y:80 / K:0",
+            "rgb_array": [
+                166,
+                161,
+                89
+            ],
+            "rgb": "R:166 / G:161 / B:89",
+            "hex": "#a6a159",
+            "combinations": [
+                124,
+                211,
+                265,
+                347
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 94,
+            "name": "Artemesia Green",
+            "slug": "artemesia-green",
+            "cmyk_array": [
+                57,
+                28,
+                39,
+                8
+            ],
+            "cmyk": "C:57 / M:28 / Y:39 / K:8",
+            "rgb_array": [
+                112,
+                147,
+                144
+            ],
+            "rgb": "R:112 / G:147 / B:144",
+            "hex": "#709390",
+            "combinations": [
+                293,
+                312
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 95,
+            "name": "Andover Green",
+            "slug": "andover-green",
+            "cmyk_array": [
+                60,
+                40,
+                50,
+                10
+            ],
+            "cmyk": "C:60 / M:40 / Y:50 / K:10",
+            "rgb_array": [
+                109,
+                126,
+                119
+            ],
+            "rgb": "R:109 / G:126 / B:119",
+            "hex": "#6d7e77",
+            "combinations": [
+                244,
+                346
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 96,
+            "name": "Rainette Green",
+            "slug": "rainette-green",
+            "cmyk_array": [
+                42,
+                20,
+                62,
+                10
+            ],
+            "cmyk": "C:42 / M:20 / Y:62 / K:10",
+            "rgb_array": [
+                143,
+                160,
+                113
+            ],
+            "rgb": "R:143 / G:160 / B:113",
+            "hex": "#8fa071",
+            "combinations": [
+                105,
+                200,
+                219,
+                283
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 97,
+            "name": "Pistachio Green",
+            "slug": "pistachio-green",
+            "cmyk_array": [
+                64,
+                29,
+                56,
+                6
+            ],
+            "cmyk": "C:64 / M:29 / Y:56 / K:6",
+            "rgb_array": [
+                100,
+                143,
+                123
+            ],
+            "rgb": "R:100 / G:143 / B:123",
+            "hex": "#648f7b",
+            "combinations": [
+                127,
+                237
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 98,
+            "name": "Sea Green",
+            "slug": "sea-green",
+            "cmyk_array": [
+                80,
+                0,
+                51,
+                0
+            ],
+            "cmyk": "C:80 / M:0 / Y:51 / K:0",
+            "rgb_array": [
+                0,
+                180,
+                155
+            ],
+            "rgb": "R:0 / G:180 / B:155",
+            "hex": "#00b49b",
+            "combinations": [
+                17,
+                21,
+                58,
+                86,
+                133,
+                250,
+                260,
+                284,
+                291,
+                340,
+                347
+            ],
+            "use_count": 11
+        },
+        {
+            "index": 99,
+            "name": "Benzol Green",
+            "slug": "benzol-green",
+            "cmyk_array": [
+                100,
+                15,
+                55,
+                0
+            ],
+            "cmyk": "C:100 / M:15 / Y:55 / K:0",
+            "rgb_array": [
+                0,
+                151,
+                141
+            ],
+            "rgb": "R:0 / G:151 / B:141",
+            "hex": "#00978d",
+            "combinations": [
+                15,
+                54,
+                92,
+                122,
+                155,
+                247,
+                266,
+                267,
+                281,
+                304,
+                306
+            ],
+            "use_count": 11
+        },
+        {
+            "index": 100,
+            "name": "Light Porcelain Green",
+            "slug": "light-porcelain-green",
+            "cmyk_array": [
+                86,
+                22,
+                50,
+                3
+            ],
+            "cmyk": "C:86 / M:22 / Y:50 / K:3",
+            "rgb_array": [
+                0,
+                144,
+                138
+            ],
+            "rgb": "R:0 / G:144 / B:138",
+            "hex": "#00908a",
+            "combinations": [
+                44,
+                193,
+                328
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 101,
+            "name": "Green",
+            "slug": "green",
+            "cmyk_array": [
+                75,
+                21,
+                73,
+                0
+            ],
+            "cmyk": "C:75 / M:21 / Y:73 / K:0",
+            "rgb_array": [
+                72,
+                155,
+                110
+            ],
+            "rgb": "R:72 / G:155 / B:110",
+            "hex": "#489b6e",
+            "combinations": [
+                198,
+                216,
+                293
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 102,
+            "name": "Dull Viridian Green",
+            "slug": "dull-viridian-green",
+            "cmyk_array": [
+                90,
+                20,
+                80,
+                0
+            ],
+            "cmyk": "C:90 / M:20 / Y:80 / K:0",
+            "rgb_array": [
+                0,
+                148,
+                101
+            ],
+            "rgb": "R:0 / G:148 / B:101",
+            "hex": "#009465",
+            "combinations": [
+                136,
+                256,
+                306,
+                316
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 103,
+            "name": "Oil Green",
+            "slug": "oil-green",
+            "cmyk_array": [
+                53,
+                28,
+                100,
+                8
+            ],
+            "cmyk": "C:53 / M:28 / Y:100 / K:8",
+            "rgb_array": [
+                129,
+                146,
+                56
+            ],
+            "rgb": "R:129 / G:146 / B:56",
+            "hex": "#819238",
+            "combinations": [
+                245,
+                299,
+                320
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 104,
+            "name": "Diamine Green",
+            "slug": "diamine-green",
+            "cmyk_array": [
+                87,
+                32,
+                91,
+                18
+            ],
+            "cmyk": "C:87 / M:32 / Y:91 / K:18",
+            "rgb_array": [
+                26,
+                116,
+                68
+            ],
+            "rgb": "R:26 / G:116 / B:68",
+            "hex": "#1a7444",
+            "combinations": [
+                38,
+                146,
+                217,
+                242,
+                251,
+                313
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 105,
+            "name": "Cossack Green",
+            "slug": "cossack-green",
+            "cmyk_array": [
+                76,
+                32,
+                91,
+                18
+            ],
+            "cmyk": "C:76 / M:32 / Y:91 / K:18",
+            "rgb_array": [
+                67,
+                119,
+                66
+            ],
+            "rgb": "R:67 / G:119 / B:66",
+            "hex": "#437742",
+            "combinations": [
+                5,
+                135,
+                262,
+                270,
+                278,
+                294,
+                319,
+                341,
+                348
+            ],
+            "use_count": 9
+        },
+        {
+            "index": 106,
+            "name": "Lincoln Green",
+            "slug": "lincoln-green",
+            "cmyk_array": [
+                60,
+                48,
+                86,
+                37
+            ],
+            "cmyk": "C:60 / M:48 / Y:86 / K:37",
+            "rgb_array": [
+                85,
+                88,
+                50
+            ],
+            "rgb": "R:85 / G:88 / B:50",
+            "hex": "#555832",
+            "combinations": [
+                70,
+                121,
+                203,
+                210,
+                280,
+                290
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 107,
+            "name": "Blackish Olive",
+            "slug": "blackish-olive",
+            "cmyk_array": [
+                56,
+                32,
+                63,
+                55
+            ],
+            "cmyk": "C:56 / M:32 / Y:63 / K:55",
+            "rgb_array": [
+                66,
+                83,
+                62
+            ],
+            "rgb": "R:66 / G:83 / B:62",
+            "hex": "#42533e",
+            "combinations": [
+                109,
+                318,
+                336
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 108,
+            "name": "Deep Slate Olive",
+            "slug": "deep-slate-olive",
+            "cmyk_array": [
+                76,
+                60,
+                80,
+                62
+            ],
+            "cmyk": "C:76 / M:60 / Y:80 / K:62",
+            "rgb_array": [
+                37,
+                49,
+                34
+            ],
+            "rgb": "R:37 / G:49 / B:34",
+            "hex": "#253122",
+            "combinations": [
+                189,
+                229,
+                268,
+                303,
+                310,
+                321,
+                332,
+                341,
+                342,
+                348
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 109,
+            "name": "Nile Blue",
+            "slug": "nile-blue",
+            "cmyk_array": [
+                25,
+                0,
+                10,
+                0
+            ],
+            "cmyk": "C:25 / M:0 / Y:10 / K:0",
+            "rgb_array": [
+                188,
+                228,
+                229
+            ],
+            "rgb": "R:188 / G:228 / B:229",
+            "hex": "#bce4e5",
+            "combinations": [
+                25,
+                250,
+                268,
+                302,
+                306,
+                330,
+                345
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 110,
+            "name": "Pale King's Blue",
+            "slug": "pale-king's-blue",
+            "cmyk_array": [
+                33,
+                4,
+                7,
+                0
+            ],
+            "cmyk": "C:33 / M:4 / Y:7 / K:0",
+            "rgb_array": [
+                167,
+                212,
+                228
+            ],
+            "rgb": "R:167 / G:212 / B:228",
+            "hex": "#a7d4e4",
+            "combinations": [
+                16,
+                49,
+                72,
+                75,
+                167,
+                196,
+                213,
+                234,
+                287
+            ],
+            "use_count": 9
+        },
+        {
+            "index": 111,
+            "name": "Light Glaucous Blue",
+            "slug": "light-glaucous-blue",
+            "cmyk_array": [
+                35,
+                10,
+                14,
+                0
+            ],
+            "cmyk": "C:35 / M:10 / Y:14 / K:0",
+            "rgb_array": [
+                165,
+                200,
+                209
+            ],
+            "rgb": "R:165 / G:200 / B:209",
+            "hex": "#a5c8d1",
+            "combinations": [
+                54,
+                93,
+                119,
+                152,
+                178,
+                204,
+                227,
+                320,
+                339,
+                341
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 112,
+            "name": "Salvia Blue",
+            "slug": "salvia-blue",
+            "cmyk_array": [
+                41,
+                25,
+                10,
+                0
+            ],
+            "cmyk": "C:41 / M:25 / Y:10 / K:0",
+            "rgb_array": [
+                151,
+                172,
+                200
+            ],
+            "rgb": "R:151 / G:172 / B:200",
+            "hex": "#97acc8",
+            "combinations": [
+                29,
+                129,
+                135,
+                139,
+                142,
+                188,
+                209,
+                212,
+                237,
+                272,
+                294,
+                321,
+                330
+            ],
+            "use_count": 13
+        },
+        {
+            "index": 113,
+            "name": "Cobalt Green",
+            "slug": "cobalt-green",
+            "cmyk_array": [
+                42,
+                0,
+                42,
+                0
+            ],
+            "cmyk": "C:42 / M:0 / Y:42 / K:0",
+            "rgb_array": [
+                150,
+                209,
+                170
+            ],
+            "rgb": "R:150 / G:209 / B:170",
+            "hex": "#96d1aa",
+            "combinations": [
+                156,
+                188,
+                201,
+                202,
+                230,
+                271,
+                281,
+                282,
+                290,
+                291,
+                308,
+                333
+            ],
+            "use_count": 12
+        },
+        {
+            "index": 114,
+            "name": "Calamine BLue",
+            "slug": "calamine-blue",
+            "cmyk_array": [
+                50,
+                0,
+                20,
+                0
+            ],
+            "cmyk": "C:50 / M:0 / Y:20 / K:0",
+            "rgb_array": [
+                120,
+                205,
+                208
+            ],
+            "rgb": "R:120 / G:205 / B:208",
+            "hex": "#78cdd0",
+            "combinations": [
+                20,
+                41,
+                65,
+                159,
+                176,
+                255,
+                261,
+                287,
+                291,
+                300
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 115,
+            "name": "Venice Green",
+            "slug": "venice-green",
+            "cmyk_array": [
+                58,
+                0,
+                30,
+                0
+            ],
+            "cmyk": "C:58 / M:0 / Y:30 / K:0",
+            "rgb_array": [
+                98,
+                198,
+                191
+            ],
+            "rgb": "R:98 / G:198 / B:191",
+            "hex": "#62c6bf",
+            "combinations": [
+                78,
+                128,
+                138,
+                189,
+                283,
+                345
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 116,
+            "name": "Cerulian Blue",
+            "slug": "cerulian-blue",
+            "cmyk_array": [
+                84,
+                26,
+                32,
+                0
+            ],
+            "cmyk": "C:84 / M:26 / Y:32 / K:0",
+            "rgb_array": [
+                0,
+                147,
+                165
+            ],
+            "rgb": "R:0 / G:147 / B:165",
+            "hex": "#0093a5",
+            "combinations": [
+                1,
+                63,
+                99,
+                125,
+                148,
+                227,
+                240,
+                264
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 117,
+            "name": "Peacock Blue",
+            "slug": "peacock-blue",
+            "cmyk_array": [
+                100,
+                19,
+                43,
+                0
+            ],
+            "cmyk": "C:100 / M:19 / Y:43 / K:0",
+            "rgb_array": [
+                0,
+                147,
+                155
+            ],
+            "rgb": "R:0 / G:147 / B:155",
+            "hex": "#00939b",
+            "combinations": [
+                131,
+                286
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 118,
+            "name": "Green Blue",
+            "slug": "green-blue",
+            "cmyk_array": [
+                82,
+                24,
+                40,
+                3
+            ],
+            "cmyk": "C:82 / M:24 / Y:40 / K:3",
+            "rgb_array": [
+                9,
+                145,
+                151
+            ],
+            "rgb": "R:9 / G:145 / B:151",
+            "hex": "#099197",
+            "combinations": [
+                12,
+                74,
+                79,
+                178,
+                208,
+                252,
+                259,
+                271,
+                330
+            ],
+            "use_count": 9
+        },
+        {
+            "index": 119,
+            "name": "Olympic Blue",
+            "slug": "olympic-blue",
+            "cmyk_array": [
+                69,
+                44,
+                10,
+                0
+            ],
+            "cmyk": "C:69 / M:44 / Y:10 / K:0",
+            "rgb_array": [
+                90,
+                130,
+                179
+            ],
+            "rgb": "R:90 / G:130 / B:179",
+            "hex": "#5a82b3",
+            "combinations": [
+                44,
+                67,
+                157,
+                194,
+                231,
+                274,
+                324
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 120,
+            "name": "Blue",
+            "slug": "blue",
+            "cmyk_array": [
+                95,
+                54,
+                0,
+                0
+            ],
+            "cmyk": "C:95 / M:54 / Y:0 / K:0",
+            "rgb_array": [
+                0,
+                110,
+                184
+            ],
+            "rgb": "R:0 / G:110 / B:184",
+            "hex": "#006eb8",
+            "combinations": [
+                49,
+                51,
+                88,
+                143,
+                154,
+                186,
+                191,
+                215,
+                257,
+                267,
+                295,
+                333
+            ],
+            "use_count": 12
+        },
+        {
+            "index": 121,
+            "name": "Antwarp Blue",
+            "slug": "antwarp-blue",
+            "cmyk_array": [
+                100,
+                40,
+                30,
+                10
+            ],
+            "cmyk": "C:100 / M:40 / Y:30 / K:10",
+            "rgb_array": [
+                0,
+                113,
+                144
+            ],
+            "rgb": "R:0 / G:113 / B:144",
+            "hex": "#007190",
+            "combinations": [
+                85,
+                106,
+                114,
+                140,
+                163,
+                172,
+                208,
+                244,
+                258,
+                281,
+                299,
+                302,
+                334
+            ],
+            "use_count": 13
+        },
+        {
+            "index": 122,
+            "name": "Helvetia Blue",
+            "slug": "helvetia-blue",
+            "cmyk_array": [
+                100,
+                62,
+                19,
+                10
+            ],
+            "cmyk": "C:100 / M:62 / Y:19 / K:10",
+            "rgb_array": [
+                0,
+                91,
+                141
+            ],
+            "rgb": "R:0 / G:91 / B:141",
+            "hex": "#005b8d",
+            "combinations": [
+                39,
+                48,
+                161,
+                187,
+                218,
+                259,
+                312,
+                347
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 123,
+            "name": "Dark Medici Blue",
+            "slug": "dark-medici-blue",
+            "cmyk_array": [
+                70,
+                45,
+                45,
+                15
+            ],
+            "cmyk": "C:70 / M:45 / Y:45 / K:15",
+            "rgb_array": [
+                84,
+                112,
+                118
+            ],
+            "rgb": "R:84 / G:112 / B:118",
+            "hex": "#547076",
+            "combinations": [
+                160,
+                224,
+                241,
+                249
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 124,
+            "name": "Dusky Green",
+            "slug": "dusky-green",
+            "cmyk_array": [
+                100,
+                30,
+                64,
+                50
+            ],
+            "cmyk": "C:100 / M:30 / Y:64 / K:50",
+            "rgb_array": [
+                0,
+                79,
+                70
+            ],
+            "rgb": "R:0 / G:79 / B:70",
+            "hex": "#004f46",
+            "combinations": [
+                94,
+                219,
+                225,
+                278,
+                284,
+                318,
+                332,
+                338
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 125,
+            "name": "Deep Lyons Blue",
+            "slug": "deep-lyons-blue",
+            "cmyk_array": [
+                100,
+                85,
+                15,
+                6
+            ],
+            "cmyk": "C:100 / M:85 / Y:15 / K:6",
+            "rgb_array": [
+                28,
+                66,
+                134
+            ],
+            "rgb": "R:28 / G:66 / B:134",
+            "hex": "#1c4286",
+            "combinations": [
+                22,
+                38,
+                101,
+                126,
+                179,
+                199,
+                236,
+                247,
+                314,
+                344
+            ],
+            "use_count": 10
+        },
+        {
+            "index": 126,
+            "name": "Violet Blue",
+            "slug": "violet-blue",
+            "cmyk_array": [
+                85,
+                79,
+                38,
+                16
+            ],
+            "cmyk": "C:85 / M:79 / Y:38 / K:16",
+            "rgb_array": [
+                64,
+                69,
+                106
+            ],
+            "rgb": "R:64 / G:69 / B:106",
+            "hex": "#40456a",
+            "combinations": [
+                75,
+                83,
+                89,
+                98,
+                125,
+                233,
+                286,
+                289,
+                297,
+                309,
+                339
+            ],
+            "use_count": 11
+        },
+        {
+            "index": 127,
+            "name": "Vandar Poel's Blue",
+            "slug": "vandar-poel's-blue",
+            "cmyk_array": [
+                100,
+                73,
+                43,
+                10
+            ],
+            "cmyk": "C:100 / M:73 / Y:43 / K:10",
+            "rgb_array": [
+                6,
+                79,
+                110
+            ],
+            "rgb": "R:6 / G:79 / B:110",
+            "hex": "#064f6e",
+            "combinations": [],
+            "use_count": 0
+        },
+        {
+            "index": 128,
+            "name": "Dark Tyrian Blue",
+            "slug": "dark-tyrian-blue",
+            "cmyk_array": [
+                90,
+                66,
+                36,
+                50
+            ],
+            "cmyk": "C:90 / M:66 / Y:36 / K:50",
+            "rgb_array": [
+                18,
+                53,
+                78
+            ],
+            "rgb": "R:18 / G:53 / B:78",
+            "hex": "#12354e",
+            "combinations": [
+                2,
+                60,
+                67,
+                119,
+                141,
+                245,
+                279
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 129,
+            "name": "Dull Violet Black",
+            "slug": "dull-violet-black",
+            "cmyk_array": [
+                95,
+                106,
+                38,
+                50
+            ],
+            "cmyk": "C:95 / M:106 / Y:38 / K:50",
+            "rgb_array": [
+                30,
+                14,
+                63
+            ],
+            "rgb": "R:30 / G:14 / B:63",
+            "hex": "#1e0e3f",
+            "combinations": [
+                95,
+                106,
+                145,
+                265,
+                277,
+                289,
+                295,
+                331
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 130,
+            "name": "Deep Indigo",
+            "slug": "deep-indigo",
+            "cmyk_array": [
+                100,
+                92,
+                52,
+                60
+            ],
+            "cmyk": "C:100 / M:92 / Y:52 / K:60",
+            "rgb_array": [
+                5,
+                18,
+                48
+            ],
+            "rgb": "R:5 / G:18 / B:48",
+            "hex": "#051230",
+            "combinations": [
+                6,
+                28,
+                139,
+                155,
+                182,
+                211,
+                232
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 131,
+            "name": "Deep Slate Green",
+            "slug": "deep-slate-green",
+            "cmyk_array": [
+                80,
+                50,
+                60,
+                70
+            ],
+            "cmyk": "C:80 / M:50 / Y:60 / K:70",
+            "rgb_array": [
+                17,
+                47,
+                44
+            ],
+            "rgb": "R:17 / G:47 / B:44",
+            "hex": "#112f2c",
+            "combinations": [
+                84,
+                149,
+                166,
+                271,
+                318,
+                325
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 132,
+            "name": "Grayish Lavender - A",
+            "slug": "grayish-lavender---a",
+            "cmyk_array": [
+                28,
+                28,
+                0,
+                0
+            ],
+            "cmyk": "C:28 / M:28 / Y:0 / K:0",
+            "rgb_array": [
+                181,
+                177,
+                216
+            ],
+            "rgb": "R:181 / G:177 / B:216",
+            "hex": "#b5b1d8",
+            "combinations": [
+                8,
+                15,
+                159,
+                177,
+                218,
+                248,
+                307
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 133,
+            "name": "Grayish Lavender - B",
+            "slug": "grayish-lavender---b",
+            "cmyk_array": [
+                25,
+                33,
+                20,
+                0
+            ],
+            "cmyk": "C:25 / M:33 / Y:20 / K:0",
+            "rgb_array": [
+                192,
+                169,
+                179
+            ],
+            "rgb": "R:192 / G:169 / B:179",
+            "hex": "#c0a9b3",
+            "combinations": [
+                47,
+                56,
+                174,
+                187,
+                235,
+                327,
+                329,
+                338
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 134,
+            "name": "Laelia Pink",
+            "slug": "laelia-pink",
+            "cmyk_array": [
+                20,
+                48,
+                18,
+                0
+            ],
+            "cmyk": "C:20 / M:48 / Y:18 / K:0",
+            "rgb_array": [
+                202,
+                146,
+                168
+            ],
+            "rgb": "R:202 / G:146 / B:168",
+            "hex": "#ca92a8",
+            "combinations": [
+                20,
+                254,
+                280,
+                337
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 135,
+            "name": "Lilac",
+            "slug": "lilac",
+            "cmyk_array": [
+                28,
+                54,
+                8,
+                0
+            ],
+            "cmyk": "C:28 / M:54 / Y:8 / K:0",
+            "rgb_array": [
+                185,
+                132,
+                175
+            ],
+            "rgb": "R:185 / G:132 / B:175",
+            "hex": "#b984af",
+            "combinations": [
+                143,
+                162,
+                282,
+                347
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 136,
+            "name": "Eupatorium Purple",
+            "slug": "eupatorium-purple",
+            "cmyk_array": [
+                25,
+                79,
+                12,
+                0
+            ],
+            "cmyk": "C:25 / M:79 / Y:12 / K:0",
+            "rgb_array": [
+                191,
+                88,
+                146
+            ],
+            "rgb": "R:191 / G:88 / B:146",
+            "hex": "#bf5892",
+            "combinations": [
+                23,
+                80,
+                128,
+                134,
+                180,
+                274,
+                331
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 137,
+            "name": "Light Mauve",
+            "slug": "light-mauve",
+            "cmyk_array": [
+                43,
+                62,
+                5,
+                0
+            ],
+            "cmyk": "C:43 / M:62 / Y:5 / K:0",
+            "rgb_array": [
+                154,
+                114,
+                170
+            ],
+            "rgb": "R:154 / G:114 / B:170",
+            "hex": "#9a72aa",
+            "combinations": [
+                23,
+                80,
+                128,
+                134,
+                180,
+                274,
+                331
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 138,
+            "name": "Aconite Violet",
+            "slug": "aconite-violet",
+            "cmyk_array": [
+                39,
+                68,
+                5,
+                0
+            ],
+            "cmyk": "C:39 / M:68 / Y:5 / K:0",
+            "rgb_array": [
+                163,
+                106,
+                165
+            ],
+            "rgb": "R:163 / G:106 / B:165",
+            "hex": "#a36aa5",
+            "combinations": [
+                43,
+                64,
+                90,
+                187,
+                220,
+                257,
+                269,
+                301,
+                307,
+                324,
+                344
+            ],
+            "use_count": 11
+        },
+        {
+            "index": 139,
+            "name": "Dull Blue Violet",
+            "slug": "dull-blue-violet",
+            "cmyk_array": [
+                57,
+                60,
+                17,
+                0
+            ],
+            "cmyk": "C:57 / M:60 / Y:17 / K:0",
+            "rgb_array": [
+                128,
+                113,
+                158
+            ],
+            "rgb": "R:128 / G:113 / B:158",
+            "hex": "#80719e",
+            "combinations": [
+                9,
+                100
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 140,
+            "name": "Dark Soft Violet",
+            "slug": "dark-soft-violet",
+            "cmyk_array": [
+                70,
+                68,
+                13,
+                0
+            ],
+            "cmyk": "C:70 / M:68 / Y:13 / K:0",
+            "rgb_array": [
+                102,
+                98,
+                156
+            ],
+            "rgb": "R:102 / G:98 / B:156",
+            "hex": "#66629c",
+            "combinations": [
+                64,
+                127,
+                197
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 141,
+            "name": "Blue Violet",
+            "slug": "blue-violet",
+            "cmyk_array": [
+                72,
+                80,
+                0,
+                0
+            ],
+            "cmyk": "C:72 / M:80 / Y:0 / K:0",
+            "rgb_array": [
+                100,
+                80,
+                161
+            ],
+            "rgb": "R:100 / G:80 / B:161",
+            "hex": "#6450a1",
+            "combinations": [
+                116,
+                175,
+                196,
+                322,
+                345
+            ],
+            "use_count": 5
+        },
+        {
+            "index": 142,
+            "name": "Purple Drab",
+            "slug": "purple-drab",
+            "cmyk_array": [
+                38,
+                65,
+                49,
+                26
+            ],
+            "cmyk": "C:38 / M:65 / Y:49 / K:26",
+            "rgb_array": [
+                132,
+                86,
+                91
+            ],
+            "rgb": "R:132 / G:86 / B:91",
+            "hex": "#84565b",
+            "combinations": [
+                236
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 143,
+            "name": "Deep Violet / Plumbeous",
+            "slug": "deep-violet-plumbeous",
+            "cmyk_array": [
+                61,
+                52,
+                43,
+                7
+            ],
+            "cmyk": "C:61 / M:52 / Y:43 / K:7",
+            "rgb_array": [
+                112,
+                114,
+                124
+            ],
+            "rgb": "R:112 / G:114 / B:124",
+            "hex": "#70727c",
+            "combinations": [
+                183,
+                192,
+                218
+            ],
+            "use_count": 3
+        },
+        {
+            "index": 144,
+            "name": "Veronia Purple",
+            "slug": "veronia-purple",
+            "cmyk_array": [
+                42,
+                78,
+                46,
+                15
+            ],
+            "cmyk": "C:42 / M:78 / Y:46 / K:15",
+            "rgb_array": [
+                140,
+                76,
+                98
+            ],
+            "rgb": "R:140 / G:76 / B:98",
+            "hex": "#8c4c62",
+            "combinations": [
+                13,
+                24,
+                168,
+                183
+            ],
+            "use_count": 4
+        },
+        {
+            "index": 145,
+            "name": "Dark Slate Purple",
+            "slug": "dark-slate-purple",
+            "cmyk_array": [
+                64,
+                85,
+                60,
+                10
+            ],
+            "cmyk": "C:64 / M:85 / Y:60 / K:10",
+            "rgb_array": [
+                112,
+                67,
+                87
+            ],
+            "rgb": "R:112 / G:67 / B:87",
+            "hex": "#704357",
+            "combinations": [
+                225,
+                248
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 146,
+            "name": "Taupe Brown",
+            "slug": "taupe-brown",
+            "cmyk_array": [
+                30,
+                70,
+                35,
+                40
+            ],
+            "cmyk": "C:30 / M:70 / Y:35 / K:40",
+            "rgb_array": [
+                122,
+                68,
+                86
+            ],
+            "rgb": "R:122 / G:68 / B:86",
+            "hex": "#7a4456",
+            "combinations": [
+                57,
+                123,
+                174,
+                224,
+                275,
+                280,
+                288
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 147,
+            "name": "Violet Carmine",
+            "slug": "violet-carmine",
+            "cmyk_array": [
+                64,
+                90,
+                70,
+                10
+            ],
+            "cmyk": "C:64 / M:90 / Y:70 / K:10",
+            "rgb_array": [
+                113,
+                59,
+                76
+            ],
+            "rgb": "R:113 / G:59 / B:76",
+            "hex": "#713b4c",
+            "combinations": [
+                337
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 148,
+            "name": "Violet",
+            "slug": "violet",
+            "cmyk_array": [
+                85,
+                90,
+                18,
+                0
+            ],
+            "cmyk": "C:85 / M:90 / Y:18 / K:0",
+            "rgb_array": [
+                79,
+                64,
+                134
+            ],
+            "rgb": "R:79 / G:64 / B:134",
+            "hex": "#4f4086",
+            "combinations": [
+                42,
+                56,
+                130,
+                156,
+                164,
+                181,
+                205,
+                214,
+                226,
+                316,
+                331,
+                335
+            ],
+            "use_count": 12
+        },
+        {
+            "index": 149,
+            "name": "Red Violet",
+            "slug": "red-violet",
+            "cmyk_array": [
+                76,
+                100,
+                25,
+                15
+            ],
+            "cmyk": "C:76 / M:100 / Y:25 / K:15",
+            "rgb_array": [
+                89,
+                37,
+                106
+            ],
+            "rgb": "R:89 / G:37 / B:106",
+            "hex": "#59256a",
+            "combinations": [
+                4,
+                37,
+                134,
+                136,
+                170,
+                172,
+                183,
+                316
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 150,
+            "name": "Cotinga Purple",
+            "slug": "cotinga-purple",
+            "cmyk_array": [
+                66,
+                100,
+                42,
+                40
+            ],
+            "cmyk": "C:66 / M:100 / Y:42 / K:40",
+            "rgb_array": [
+                80,
+                19,
+                69
+            ],
+            "rgb": "R:80 / G:19 / B:69",
+            "hex": "#501345",
+            "combinations": [
+                61,
+                181,
+                238,
+                253,
+                307,
+                329,
+                348
+            ],
+            "use_count": 7
+        },
+        {
+            "index": 151,
+            "name": "Dusky Madder Violet",
+            "slug": "dusky-madder-violet",
+            "cmyk_array": [
+                75,
+                100,
+                46,
+                30
+            ],
+            "cmyk": "C:75 / M:100 / Y:46 / K:30",
+            "rgb_array": [
+                78,
+                29,
+                76
+            ],
+            "rgb": "R:78 / G:29 / B:76",
+            "hex": "#4e1d4c",
+            "combinations": [
+                18,
+                50,
+                53,
+                82,
+                103,
+                314
+            ],
+            "use_count": 6
+        },
+        {
+            "index": 152,
+            "name": "White",
+            "slug": "white",
+            "cmyk_array": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "cmyk": "C:0 / M:0 / Y:0 / K:0",
+            "rgb_array": [
+                255,
+                255,
+                255
+            ],
+            "rgb": "R:255 / G:255 / B:255",
+            "hex": "#ffffff",
+            "combinations": [
+                55
+            ],
+            "use_count": 1
+        },
+        {
+            "index": 153,
+            "name": "Neutral Gray",
+            "slug": "neutral-gray",
+            "cmyk_array": [
+                29,
+                18,
+                20,
+                0
+            ],
+            "cmyk": "C:29 / M:18 / Y:20 / K:0",
+            "rgb_array": [
+                182,
+                191,
+                193
+            ],
+            "rgb": "R:182 / G:191 / B:193",
+            "hex": "#b6bfc1",
+            "combinations": [
+                34,
+                139,
+                180,
+                195,
+                197,
+                221,
+                228,
+                229,
+                273,
+                303,
+                324,
+                340
+            ],
+            "use_count": 12
+        },
+        {
+            "index": 154,
+            "name": "Mineral Gray",
+            "slug": "mineral-gray",
+            "cmyk_array": [
+                33,
+                18,
+                25,
+                7
+            ],
+            "cmyk": "C:33 / M:18 / Y:25 / K:7",
+            "rgb_array": [
+                162,
+                176,
+                173
+            ],
+            "rgb": "R:162 / G:176 / B:173",
+            "hex": "#a2b0ad",
+            "combinations": [
+                11,
+                30
+            ],
+            "use_count": 2
+        },
+        {
+            "index": 155,
+            "name": "Warm Gray",
+            "slug": "warm-gray",
+            "cmyk_array": [
+                37,
+                28,
+                36,
+                3
+            ],
+            "cmyk": "C:37 / M:28 / Y:36 / K:3",
+            "rgb_array": [
+                161,
+                163,
+                154
+            ],
+            "rgb": "R:161 / G:163 / B:154",
+            "hex": "#a1a39a",
+            "combinations": [
+                69,
+                76,
+                81,
+                143,
+                169,
+                238,
+                259,
+                261
+            ],
+            "use_count": 8
+        },
+        {
+            "index": 156,
+            "name": "Slate Color",
+            "slug": "slate-color",
+            "cmyk_array": [
+                85,
+                70,
+                62,
+                30
+            ],
+            "cmyk": "C:85 / M:70 / Y:62 / K:30",
+            "rgb_array": [
+                52,
+                69,
+                76
+            ],
+            "rgb": "R:52 / G:69 / B:76",
+            "hex": "#34454c",
+            "combinations": [
+                27,
+                33,
+                57,
+                140,
+                202,
+                243,
+                245,
+                251,
+                253,
+                263,
+                296,
+                329,
+                335
+            ],
+            "use_count": 13
+        },
+        {
+            "index": 157,
+            "name": "Black",
+            "slug": "black",
+            "cmyk_array": [
+                20,
+                10,
+                15,
+                100
+            ],
+            "cmyk": "C:20 / M:10 / Y:15 / K:100",
+            "rgb_array": [
+                17,
+                19,
+                20
+            ],
+            "rgb": "R:17 / G:19 / B:20",
+            "hex": "#111314",
+            "combinations": [
+                46,
+                52,
+                62,
+                69,
+                112,
+                117,
+                144,
+                190,
+                207,
+                216,
+                221,
+                242,
+                255,
+                256,
+                269,
+                276,
+                288,
+                198,
+                313,
+                323,
+                337,
+                340,
+                344
+            ],
+            "use_count": 23
+        }
+    ]
+}
